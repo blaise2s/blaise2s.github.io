@@ -1,0 +1,15 @@
+.navbar-brand {
+    background-color: rgb(78, 171, 164);
+    font-weight: bold;
+    font-size: 1.75rem;
+    letter-spacing: 1px;
+}
+
+main {
+    padding-top: 4rem;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+    background-color: rgb(78, 171, 164);
+}
